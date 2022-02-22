@@ -107,7 +107,7 @@
     "esbuild": "0",
     "eslint": "^7.29.0",
     "eslint-config-airbnb": "^18.0.1",
-    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-import-resolver-babel-module": "^5.1.0",
     "eslint-import-resolver-typescript": "^2.0.0",
