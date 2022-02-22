@@ -2140,28 +2140,28 @@
   resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20.tgz#2df768aa7c9f84acaa1f35c970417822233a9fb1"
   integrity sha512-WPnA/IUrxDihrRhdP6+8KAVSwsc0zsh8ioPYsLJjOhzVhwpRbuFH2tJDRIAbc+qFh+BbTIZbeyBYt8fpNXaYQQ==
 
-"@sendgrid/client@^7.2.2", "@sendgrid/client@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@sendgrid/client/-/client-7.5.0.tgz#f22e083f6d457aed392a5e44f055ae3a378b2449"
-  integrity sha512-tu2l3a1Egp65hRsDdX6qUHvpZydZvgEL7PLViQh4uu5DTqztpNCyw0UQYkyPYyXInWJjLax12UOciTG2V/s4OQ==
+"@sendgrid/client@^7.2.2", "@sendgrid/client@^7.6.1":
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/@sendgrid/client/-/client-7.6.1.tgz#de17fe9f04af3bdb69aca44fc407316de87cea3b"
+  integrity sha512-q4U5OhcbJjs+lLVv/LhZSc28feiVCFMgvG9aYcRI5X4tKArnrrGDWb5HMITR9vaAtX42TXhyPFjHr1fk/Q1loQ==
   dependencies:
-    "@sendgrid/helpers" "^7.5.0"
+    "@sendgrid/helpers" "^7.6.0"
     axios "^0.21.4"
 
-"@sendgrid/helpers@^7.2.0", "@sendgrid/helpers@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@sendgrid/helpers/-/helpers-7.5.0.tgz#1459915f740266b1741687333380a7434860541c"
-  integrity sha512-uzCzpougTDKifyVksx5obZtMcEypq7UVAon/FLurrGEncGrx/N4bYDGPo4chmEdHAZvN75fpavyfETx3DZYebg==
+"@sendgrid/helpers@^7.2.0", "@sendgrid/helpers@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@sendgrid/helpers/-/helpers-7.6.0.tgz#b381bfab391bcd66c771811b22bb6bb2d5c1dfc6"
+  integrity sha512-0uWD+HSXLl4Z/X3cN+UMQC20RE7xwAACgppnfjDyvKG0KvJcUgDGz7HDdQkiMUdcVWfmyk6zKSg7XKfKzBjTwA==
   dependencies:
     deepmerge "^4.2.2"
 
-"@sendgrid/mail@^7.2.3":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@sendgrid/mail/-/mail-7.5.0.tgz#adcd3a1b1153108866a26edff80c3658e576a0db"
-  integrity sha512-/JEQJagigZreHsApOdFdZC2ZtSwaQY5Kvjj29a3BUrx8bEX0bQUlBjlIVQkrxpkgzTvTQgR3kaRzX6BoLiS44A==
+"@sendgrid/mail@^7.6.1":
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/@sendgrid/mail/-/mail-7.6.1.tgz#f7bbfc93781b0b6126549bf4b3649805295b02aa"
+  integrity sha512-F+HXpDLIU4PGZyZznOiFLDGJDwLn2qh7/wD5MvwurrldDx5DaGQHrYBKHopceOl15FVuq9ElU9VIxQJF8SMvTg==
   dependencies:
-    "@sendgrid/client" "^7.5.0"
-    "@sendgrid/helpers" "^7.5.0"
+    "@sendgrid/client" "^7.6.1"
+    "@sendgrid/helpers" "^7.6.0"
 
 "@sentry/core@5.30.0":
   version "5.30.0"
