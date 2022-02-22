@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "lib": ["es2016", "esnext.asynciterable"],
+    "baseUrl": "./src",
+    "outDir": "./build",
+    "paths": {
+      "@libs/*": ["libs/*"]
+    },
+    "target": "ESNext",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": false,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedParameters": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": false,
+    "inlineSources": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
+    "typeRoots": ["./node_modules/@types"]
+  },
+  "inscriptsde": ["./src"],
+  "exclude": ["node_modules", "infra", "archive/*"]
+}

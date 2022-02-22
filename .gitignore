@@ -1,0 +1,32 @@
+# Common
+**/node_modules
+npm-debug.log
+coverage
+.coverage
+.eslintcache
+yarn-error.log
+*.log
+npm-debug.log*
+pids
+*.pid
+.idea
+.DS_Store
+.vscode
+.docker-args
+package-lock.json
+.yarn
+.webpack
+
+# Build
+build
+build-server
+
+# CDK
+.cdk.staging
+cdk.out
+
+# Env
+.env
+.env.local
+.env.development
+.env.production

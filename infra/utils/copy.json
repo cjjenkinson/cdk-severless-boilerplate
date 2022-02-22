@@ -1,0 +1,18 @@
+{
+  "Auth": {
+    "Verification": {
+      "emailSubject": "Your verification code from Trackstack",
+      "emailBody": "Your verification code is {####}",
+      "smsMessage": "Your verification code is {####}"
+    },
+    "Invitation": {
+      "emailSubject": "Trackstack Invitation",
+      "emailBody": "Hello {username}, you have been invited to join Trackstack Your temporary password is {####}",
+      "smsMessage": "Hello {username}, your temporary password for Trackstack is {####}"
+    },
+    "Email": {
+      "from": "noreply@trackstack.in",
+      "replyTo": "support@trackstack.in"
+    }
+  }
+}
