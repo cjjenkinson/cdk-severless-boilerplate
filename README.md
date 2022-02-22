@@ -1,6 +1,6 @@
-# Truman
+# CDK Serverless boilerplate
 
-Trackstack's backend services and infrastructure
+Opinionated boilerplate for serverless projects on AWS using CDK (backend services and infrastructure)
 
 ## Getting started
 
