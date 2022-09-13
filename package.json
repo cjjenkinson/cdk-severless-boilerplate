@@ -41,7 +41,7 @@
     "aws-sdk": "^2.826.0",
     "axios": "^0.22.0",
     "convict": "^6.2.1",
-    "date-fns": "^2.25.0",
+    "date-fns": "^2.29.3",
     "dotenv": "^10.0.0",
     "global": "^4.4.0",
     "lint-staged": "^12.1.2",
