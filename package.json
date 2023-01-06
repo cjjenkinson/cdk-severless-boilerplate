@@ -123,7 +123,7 @@
     "jest": "^26.4.2",
     "mrm": "2",
     "prettier": "^2.4.1",
-    "random-words": "^1.1.1",
+    "random-words": "^1.2.1",
     "ts-jest": "^26.5.6",
     "ts-node": "^10.4.0",
     "typescript": "^4.4.4"
